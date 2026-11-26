@@ -4,8 +4,8 @@
 
 # Rejected Olympic Sports
 
-A make.fun entry for the [Rejected Olympic Sports](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da) bounty: one funny single-line sport the Olympics turned down. The program `main.py` writes a single 119-character line — a broadcast-ready event where the athletes' worst enemy is a wet umbrella and a dry judge — to `/output/entry.txt`:
+A make.fun entry for the [Rejected Olympic Sports](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da) bounty: one funny single-line sport the Olympics turned down. The program `main.py` writes a single 111-character line — a broadcast-ready event where the athletes' worst enemy is a hot iron, a fast coaster, and their own tears — to `/output/entry.txt`:
 
-> Competitive Umbrella Folding: athletes race to collapse a soaking-wet umbrella indoors without spraying a single judge.
+> Extreme Ironing on a Rollercoaster: press a shirt at 80 km/h while screaming. Wrinkles count double if you cry.
 
 Run it: `python3 main.py`

@@ -7,8 +7,8 @@ Writes one funny single-line sport the Olympics turned down to
 import os
 
 LINE = (
-    "Competitive Umbrella Folding: athletes race to collapse a "
-    "soaking-wet umbrella indoors without spraying a single judge."
+    "Extreme Ironing on a Rollercoaster: press a shirt at 80 km/h "
+    "while screaming. Wrinkles count double if you cry."
 )
 
 
