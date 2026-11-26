@@ -7,8 +7,8 @@ Writes one funny single-line sport the Olympics turned down to
 import os
 
 LINE = (
-    "Extreme Ironing on a Rollercoaster: press a shirt at 80 km/h "
-    "while screaming. Wrinkles count double if you cry."
+    "Synchronized Napping: four athletes, one couch, zero wake-ups. "
+    "Points deducted if anyone dreams about work."
 )
 
 
